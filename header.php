@@ -14,7 +14,7 @@ session_start() ;
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php"><img src="Images/logo.jpg" height="50" width="50" alt="..."></a>
+        <a class="navbar-brand" href="index.php"><img src="Images/logo.jpg" height="50" width="70" alt="..."></a>
         <div class="btn-group">
         </div>
         

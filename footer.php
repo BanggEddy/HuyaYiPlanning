@@ -1,19 +1,3 @@
-<script type="text/javascript">
-  setTimeout(function () {
-
-    // Closing the altert
-    $_('#alert').alter('close');
-
-  },2000);
-</script>
-
-
-
-
-<div id="scrollUp">
-        <a href="#top"><img src="Images/imagefleche.png"/></a>
-      </div>
-    
     <!-- Optional JavaScript; choose one of the two! -->
     <script src="to-top.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
